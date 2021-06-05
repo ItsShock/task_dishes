@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# The project is available on the website
+
+https://itsshock.github.io/task_dishes/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
